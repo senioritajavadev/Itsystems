@@ -101,4 +101,4 @@ mvn test-compile exec:java "-Dexec.classpathScope=test" "-Dmain.class=its.DemoAp
 
 Прайс-лист. Из него подставляется цена при оформлении продажи.
 
-![IT-S](resources/logo.png)
+<img src="resources/logo.png" alt="IT-S" width="200">
